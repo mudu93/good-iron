@@ -1,6 +1,6 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Welcome Home
+subtitle: 'Check my Website, Portfolio and Services'
 background_style: style5
 menus:
   main:
